@@ -30,7 +30,8 @@
 }
 
 /* Thanks, https://stackoverflow.com/questions/38938747/jquery-javascript-for-div-auto-resizing-when-browser-window-resize */
-#calendar {
+iframe {
+    height:100vh;
     width:50vw;
 }
 /*************************/
