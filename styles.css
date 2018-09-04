@@ -29,6 +29,10 @@
   width: 50%;
 }
 
+// Thanks, https://stackoverflow.com/questions/38938747/jquery-javascript-for-div-auto-resizing-when-browser-window-resize
+#calendar {
+    width:50vw;
+}
 /*************************/
 
 body {
